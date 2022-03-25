@@ -1,5 +1,4 @@
-### 
-**Hello** 👋
+ ## Hello👋
 
 [![carlo711's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlo711&count_private=true&show_icons=true&theme=radical)](https://github.com/carlo711/github-readme-stats)
 
